@@ -1,5 +1,5 @@
 [package]
-name = "serial_rs"
+name = "serial_test"
 version = "0.1.0"
 authors = ["Yasuhiro Yamada <yamada@gr3.ie>"]
 edition = "2018"
